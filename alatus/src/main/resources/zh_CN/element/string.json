@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "AlatusAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AlatusAbility_label",
+      "value": "label"
+    }
+  ]
+}

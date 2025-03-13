@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "AlatusAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AlatusAbility_label",
+      "value": "label"
+    }
+  ]
+}
